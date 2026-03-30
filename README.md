@@ -88,7 +88,7 @@ The Great Australian Silence is not merely unjust. It is formally the most expen
 
 The GIST framework (Gibbs Intelligence as the Structure of Thought) establishes that bounded intelligence is Gibbs-distributed inference over an intractable partition function:
 
-$$Z(X^{\text{country}}) = \int_A \exp(-H(a;\, X^{\text{country}})) \, da \quad \text{(#P-hard)}$$
+$$Z(X^{\text{country}}) = \int_A \exp(-H(a;\, X^{\text{country}})) \, da \quad \text{(P-hard)}$$
 
 The Songline system is, in formal terms, an approximate Gibbs sampler over this intractable partition function. The action space $A$ is the space of possible movements, behaviors, speech acts, and ceremonial practices within country. The context $X^{\text{country}}$ is the accumulated Dreaming: 65,000 years of ecological, cosmological, kinship, and navigational conditioning. The energy function $H(a;\, X^{\text{country}})$ assigns low energy (high probability) to actions consistent with the accumulated Dreaming context, and high energy to actions that violate it.
 
